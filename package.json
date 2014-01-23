@@ -1,6 +1,6 @@
 {
   "name": "bemhtml-lint",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "lint tool for bemhtml",
   "main": "lib/index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "q-io": "~1.10.6"
   },
   "bundleDependencies": [
-      "bem-bl"
+    "bem-bl"
   ],
   "devDependencies": {}
 }

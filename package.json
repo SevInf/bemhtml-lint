@@ -13,11 +13,14 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "bem-bl": "git://github.com/bem/bem-bl#feature/bemhtml-validate",
+    "bem-bl": "git://github.com/bem/bem-bl#v1.0.0",
     "coa": "~0.4.0",
     "glob": "~3.2.8",
     "q": "~1.0.0",
     "q-io": "~1.10.6"
   },
+  "bundleDependencies": [
+      "bem-bl"
+  ],
   "devDependencies": {}
 }

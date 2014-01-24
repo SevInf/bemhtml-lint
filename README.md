@@ -27,7 +27,7 @@ Glob pattern:
 
 ## Editors integration
 
-Vim: use my fork of [Syntastic](https://github.com/SevInf/syntastic).
+Vim: use [Syntastic](https://github.com/scrooloose/syntastic).
 
 ## License
 
